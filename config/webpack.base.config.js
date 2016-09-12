@@ -1,5 +1,5 @@
 module.exports = {
-    entry: './shopping-cart/main.js',
+    entry: './todomvc/main.js',
     output: {
         path: './dist',
         publicPath: 'dist/',
