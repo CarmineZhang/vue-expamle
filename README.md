@@ -1,3 +1,5 @@
+#下载
+git clone https://github.com/CarmineZhang/vue-expamle
 # install dependencies
 npm install
 
